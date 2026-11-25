@@ -84,6 +84,9 @@ src/main/java/com/academiq/
 src/main/resources/sql/     table creation scripts
 database/sample_data.sql    optional demo data
 ```
+## Demo video
+
+[Watch the project demo](https://drive.google.com/file/d/1Y3Cp-3_5vRqHS_rX5Ni0Bdai4ohRkRvq/view?usp=sharing)
 ## Screenshots
 
 ### Dashboard
